@@ -16,7 +16,6 @@ while row_index < src.count do
   row_index += 1
 end
 
-string_array.to_s 
 string_array
 
 binding.pry
