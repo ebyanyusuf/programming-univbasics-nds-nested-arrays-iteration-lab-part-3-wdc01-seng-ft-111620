@@ -1,4 +1,4 @@
-require 'pry'
+
 def join_nested_strings(src)
 string_array = [ ]
 row_index = 0
@@ -18,5 +18,4 @@ end
 
 string_array.join('')
 
-binding.pry
 end
