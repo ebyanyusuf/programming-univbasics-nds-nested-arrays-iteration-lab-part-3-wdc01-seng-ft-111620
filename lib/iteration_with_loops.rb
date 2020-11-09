@@ -16,7 +16,7 @@ while row_index < src.count do
   row_index += 1
 end
 
-string_array
+string_array.time_zone_
 
 binding.pry
 end
