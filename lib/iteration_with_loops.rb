@@ -17,7 +17,7 @@ while row_index < src.count do
 end
 
 string_array.to_s 
-
+string_array
 
 binding.pry
 end
