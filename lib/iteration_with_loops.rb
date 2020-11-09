@@ -16,7 +16,7 @@ while row_index < src.count do
   row_index += 1
 end
 
-result = string_array(join)
+result = string_array.join
 result
 
 binding.pry
